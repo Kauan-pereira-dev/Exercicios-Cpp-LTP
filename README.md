@@ -1,3 +1,11 @@
+#### *READ.ME*
+##### INDICE:
+1. [Nome do Arquivo]
+2. [Objetivo]
+3. [Autor]
+4. [Resumo]
+5. [Linguagem Utilizada]
+6. [Semestre]
 > ##### NOME DO ARQUIVO: 
 Exercícios de Lógica de Programação.
 > ##### OBJETIVO: 
