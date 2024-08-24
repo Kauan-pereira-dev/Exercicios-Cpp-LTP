@@ -1,18 +1,15 @@
-> ## NOME: 
+> ##### NOME DO ARQUIVO: 
 Exercícios de Lógica de Programação.
-> ## OBJETIVO: 
+> ##### OBJETIVO: 
 Desenvolver minha lógica e aplicar na criação e resolução de problemas simples. 
-> ## AUTOR: 
+> ##### AUTOR: 
 Kauan-pereira-dev. 
-> ## RESUMO: 
+> ##### RESUMO: 
 Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP propostos na segunda semana de aula, exercícios básicos que envolvem a criação de programas cujo realizam leituras e interpretações de dados, expondo estes na tela.
-> ## LINGUAGEM UTILIZADA: 
+> ##### LINGUAGEM UTILIZADA: 
 > - C++
 > - Exemplo de código desenvolvido em C++:
 > - ~~~cpp
 >   #include <iostream> using namespace std; int main(){ cout << "Ola, mundo!"; return 0;
-
-
-
-
-> ## SEMESTRE: 1° Sem.
+>   ~~~
+> ##### SEMESTRE: 1° Sem.
