@@ -10,6 +10,11 @@ Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP pr
 > - C++
 > - Exemplo de código desenvolvido em C++:
 > - ~~~cpp
->   #include <iostream> using namespace std; int main(){ cout << "Ola, mundo!"; return 0;
+>   #include <iostream>
+>   using namespace std;
+>   int main() {
+>   cout << "Ola, mundo!";
+>   return 0;
+>   }
 >   ~~~
 > ##### SEMESTRE: 1° Sem.
