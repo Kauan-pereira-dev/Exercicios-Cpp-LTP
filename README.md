@@ -17,4 +17,8 @@ Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP pr
 >   return 0;
 >   }
 >   ~~~
+>   Este código resulta na impressão de:
+>   ~~~cpp
+>   Olá, mundo!
+>   ~~~
 > ##### SEMESTRE: 1° Sem.
