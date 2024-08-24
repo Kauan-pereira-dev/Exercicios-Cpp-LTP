@@ -1,12 +1,12 @@
 #### *READ.ME*
 ##### INDICE:
 ###### Clique para navegar entre os índices:
-1. [Nome do Arquivo](
-2. [Objetivo]
-3. [Autor]
-4. [Resumo]
-5. [Linguagem Utilizada]
-6. [Semestre]
+1. [Nome do Arquivo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+2. [Objetivo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+3. [Autor](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+4. [Resumo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+5. [Linguagem Utilizada](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+6. [Semestre](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
 > ##### NOME DO ARQUIVO: 
 Exercícios de Lógica de Programação.
 > ##### OBJETIVO: 
