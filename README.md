@@ -7,15 +7,15 @@
 4. [Resumo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
 5. [Linguagem Utilizada](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
 6. [Semestre](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
-> ##### NOME DO ARQUIVO: 
+> #### NOME DO ARQUIVO: 
 Exercícios de Lógica de Programação.
-> ##### OBJETIVO: 
+> #### OBJETIVO: 
 Desenvolver minha lógica e aplicar na criação e resolução de problemas simples. 
-> ##### AUTOR: 
+> #### AUTOR: 
 Kauan-pereira-dev. 
-> ##### RESUMO: 
+> #### RESUMO: 
 Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP propostos na segunda semana de aula, exercícios básicos que envolvem a criação de programas cujo realizam leituras e interpretações de dados, expondo estes na tela.
-> ##### LINGUAGEM UTILIZADA: 
+> #### LINGUAGEM UTILIZADA: 
 > - C++
 > - Exemplo de código desenvolvido em C++:
 > - ~~~cpp
@@ -30,4 +30,4 @@ Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP pr
 >   ~~~cpp
 >   Olá, mundo!
 >   ~~~
-> ##### SEMESTRE: 1° Sem.
+> #### SEMESTRE: 1° Sem.
