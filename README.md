@@ -14,7 +14,7 @@ Desenvolver minha lógica e aplicar na criação e resolução de problemas simp
 > #### AUTOR: 
 Kauan-pereira-dev. 
 > #### RESUMO: 
-Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP propostos na segunda semana de aula, exercícios básicos que envolvem a criação de programas cujo realizam leituras e interpretações de dados, expondo estes na tela.
+Neste repositório você encontrará a RESOLUÇÃO de oito exercícios de LTP propostos na segunda semana de aula, exercícios básicos que envolvem a criação de programas na qual realizam leituras e interpretações de dados, expondo estes na tela.
 > #### LINGUAGEM UTILIZADA: 
 > - C++
 > - Exemplo de código desenvolvido em C++:
