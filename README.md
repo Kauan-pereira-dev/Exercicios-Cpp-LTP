@@ -2,7 +2,7 @@
 ##### INDICE:
 ###### Clique para navegar entre os índices:
 1. [Nome do Arquivo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md#nome-do-arquivo)
-2. [Objetivo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
+2. [Objetivo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md#objetivo)
 3. [Autor](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
 4. [Resumo](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
 5. [Linguagem Utilizada](https://github.com/Kauan-pereira-dev/Exercicios-Cpp-LTP/blob/main/README.md)
