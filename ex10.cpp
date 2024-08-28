@@ -8,4 +8,5 @@ int main(){
     jar = pe/3;
     mil = jar/1760;
     std::cout << "O valor de: \n" << pe << "\nA) Polegadas: " << pe * 12 * pol << "\nB) Jardas: " << jar << "\nC) Milhas: " << mil;
+    // 12*pe = polegada
 }
