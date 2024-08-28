@@ -11,7 +11,7 @@ int main (){
     d = g1 + g2;
     d = d * 5;
     r = r * 1000;
-    std::cout << "A quantia de ração restante no saco, após cinco (5) dias  será de: " << ((r-d)/1000) << " KG.";
+    std::cout << "A quantia de ração restante no saco, após cinco (5) dias  sera de: " << ((r-d)/1000) << " KG.";
     return 0; 
 
 
