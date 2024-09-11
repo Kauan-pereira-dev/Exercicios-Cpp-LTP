@@ -38,4 +38,7 @@ int main(){
 
         cout << "E UM TRIANGULO: " << tri << "\nCLASSIFICACAO: " << cla;
     }
+    else {
+        cout << "Nao e um triangulo.";
+    }
 }
