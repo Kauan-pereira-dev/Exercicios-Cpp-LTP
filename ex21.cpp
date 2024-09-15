@@ -1,14 +1,27 @@
 #include <iostream>
 using namespace std;
-int main(){
-    int n,f, rest;
-    cout << "-------CALCULADORA DE FATORIAL-------";
-    cout << "Digite o numero que deseja fatorar: ";
+
+int main() {
+    // Declaração de variáveis
+    int n, valor;
+
+    cout << "Digite a quantidade de números que serão fatorados: "; 
     cin >> n;
 
-    for (rest = 0; n > 1; n++){
-        f = n*(n-1);
-        cout << f << endl;
+    
+    for (int i = 0; i < n; i++) {
+        cout << "Digite o valor: ";
+        cin >> valor;
+
+        
+        int aux, prod = 1;
+        for (aux = 1; aux <= valor; aux++) {
+            prod *= aux;
+        }
+
+        
+        cout << "VALOR ---------------------- FATORIAL\n" << valor << "! ------------------------ = " << prod << endl;
     }
 
+    return 0;
 }
