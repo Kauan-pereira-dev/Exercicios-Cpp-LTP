@@ -1,27 +1,24 @@
 #include <iostream>
 using namespace std;
+int main(){
 
-int main() {
-    // Declaração de variáveis
-    int n, valor;
+    //Declaração das variáveis.
+    int n, tab, fat;
 
-    cout << "Digite a quantidade de números que serão fatorados: "; 
+    cout << "\t\t\tTABUADA E FATORIAL\t" << "\n";
+    cout << "\tNUMERO 1" << endl;
+    cout << "\tNUMERO 2" << endl;
+    cout << "\tNUMERO 3" << endl;
+    cout << "\tNUMERO 4" << endl;
+    cout << "\tNUMERO 5" << endl;
+    cout << "\tNUMERO 6" << endl;
+    cout << "\tNUMERO 7" << endl;
+    cout << "\tNUMERO 8" << endl;
+    cout << "\tNUMERO 9" << endl;
+    cout << "\tNUMERO 10" << endl;
+
     cin >> n;
 
-    // Loop para processar cada valor inserido
-    for (int i = 0; i < n; i++) {
-        cout << "Digite o valor: ";
-        cin >> valor;
 
-        // Calculando o fatorial
-        int aux, prod = 1;
-        for (aux = 1; aux <= valor; aux++) {
-            prod *= aux;
-        }
-
-        // Exibindo o resultado
-        cout << "VALOR ---------------------- FATORIAL\n" << valor << " ! ------------------------ = " << prod << endl;
-    }
-
-    return 0;
+        
 }

@@ -5,7 +5,7 @@ int main() {
     // Declaração de variáveis
     int n, valor;
 
-    cout << "Digite a quantidade de números que serão fatorados: "; 
+    cout << "Digite a quantidade de numeros que serao fatorados: "; 
     cin >> n;
 
     
