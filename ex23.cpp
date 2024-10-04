@@ -62,7 +62,6 @@ int main(){
                 termo2 = termo3;
                 termo3 = resultado;
                 
-                multi = multi - 3;
                 
                 
             }
