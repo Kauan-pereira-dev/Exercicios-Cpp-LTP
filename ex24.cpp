@@ -2,21 +2,20 @@
 using namespace std;
 
 int main(){
-    double e, n, resultado, fmostrar ,f = 1.0;
+    int contadores[2];
+    double resultados[3];
 
-    cout << "Digite o numero: ";
-    cin >> n;
+    cout << "Digite a quantia de numeros que deseja: ";
+    cin >> resultados[0];
 
-   
-    cout << "E = 1 + 1/";
-    for (int i = 1; i <= n; i++)
-    {
-        
-        f *= n;
-        
-        e = 1.0;
-        resultado = e + (1/f);
-        cout <<resultado << " + ";
-    
+    for (contadores[0] = 1; contadores[0] <= resultados[0]; contadores[0]++){
+        cout << "\nDigite o numero: ";
+        cin >> resultados[1];
+        resultados[2] = 1;
+        for (contadores[1] = 1; contadores[1] <= resultados[1]; contadores[1]++){
+            resultados[2] *= resultados[1];
+        }
+        cout << "O resultado e: " << resultados[2] << endl;
+        cout << "------------------------------------------------" << endl;
     }
 }
